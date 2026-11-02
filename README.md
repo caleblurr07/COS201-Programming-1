@@ -1,3 +1,6 @@
+LAWAL MOJEED AYINDE 
+25/18757
+COMPUTER SCIENCE 
 # COS 201 – Computer Programming I
 ## Week 3 Assignment
 
